@@ -44,8 +44,11 @@ The project uses historical sales data typically structured as:
 ### 1. Monthly Sales Performance
 
 - Analyzed total revenue by month to identify peak sales periods.
+- ![Screenshot (9)](https://github.com/user-attachments/assets/ad7af7b8-09e6-4fd2-ba7f-9fdd27c8783d)
 
-![Monthly Sales](images/monthly-sales.png)
+![Screenshot (10)](https://github.com/user-attachments/assets/394588cc-6480-43c4-bf1f-165999a926ab)
+
+
 
 ---
 
@@ -75,4 +78,5 @@ The project uses historical sales data typically structured as:
 - Converted order timestamps to visualize sales by hour.
 - Identified optimal timeframes for marketing campaigns or staff allocation.
 
-![Order Time Analysis](images/order-times.png)
+![Screenshot (11)](https://github.com/user-attachments/assets/d690660f-9215-47d6-a4ba-cbb9a5ceb5d8)
+![Screenshot (12)](https://github.com/user-attachments/assets/d99c36b3-3caf-4375-b060-0c3ddb26ec5b)
