@@ -48,7 +48,6 @@ The project uses historical sales data typically structured as:
 
 ![Screenshot (10)](https://github.com/user-attachments/assets/394588cc-6480-43c4-bf1f-165999a926ab)
 
-![Screenshot (13)](https://github.com/user-attachments/assets/fcb0e29d-11d0-47b7-8050-40c1652a564f)
 
 
 ---
