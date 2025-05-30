@@ -63,7 +63,9 @@ The project uses historical sales data typically structured as:
 - Extracted city data from purchase addresses.
 - Visualized total revenue by city to highlight geographic performance.
 
-![City Sales](images/city-sales.png)
+![Screenshot (5)](https://github.com/user-attachments/assets/6b08a248-556c-432a-935e-74414ceb14fc)
+
+![Screenshot (6)](https://github.com/user-attachments/assets/0250232d-f85c-42bf-9230-2b3365fb1e26)
 
 ---
 
