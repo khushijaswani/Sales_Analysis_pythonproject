@@ -80,3 +80,7 @@ The project uses historical sales data typically structured as:
 
 ![Screenshot (11)](https://github.com/user-attachments/assets/d690660f-9215-47d6-a4ba-cbb9a5ceb5d8)
 ![Screenshot (12)](https://github.com/user-attachments/assets/d99c36b3-3caf-4375-b060-0c3ddb26ec5b)
+
+📬 Contact For questions or suggestions, feel free to contact:
+
+-Khushi Jaswani -khushijaswani64@gmail.com
