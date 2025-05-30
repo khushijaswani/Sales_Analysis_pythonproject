@@ -44,10 +44,11 @@ The project uses historical sales data typically structured as:
 ### 1. Monthly Sales Performance
 
 - Analyzed total revenue by month to identify peak sales periods.
-- ![Screenshot (9)](https://github.com/user-attachments/assets/ad7af7b8-09e6-4fd2-ba7f-9fdd27c8783d)
+
 
 ![Screenshot (10)](https://github.com/user-attachments/assets/394588cc-6480-43c4-bf1f-165999a926ab)
 
+![Screenshot (13)](https://github.com/user-attachments/assets/fcb0e29d-11d0-47b7-8050-40c1652a564f)
 
 
 ---
