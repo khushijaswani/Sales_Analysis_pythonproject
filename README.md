@@ -54,7 +54,8 @@ The project uses historical sales data typically structured as:
 - Calculated total sales and quantity sold per product.
 - Compared product price vs. quantity sold to understand value perception.
 
-![Top Products](images/top-products.png)
+![Screenshot (7)](https://github.com/user-attachments/assets/cae41ef3-f053-4a6b-9d28-74624b1c7390)
+
 
 ---
 
